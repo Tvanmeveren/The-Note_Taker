@@ -7,8 +7,7 @@ This project is an online note-taker, where you can take notes and store them on
 first download the files from github, then run npm init -y. then run npm i in the terminal, after that you can start to run the program, by typing in node server.js in the terminal
 <h2>Usage</h2>
 At the homepage click the start button.This will bring you to the notes page where you can write and save your notes. to write a note just click the plus sign then write the note then click the save button.
-![image](https://user-images.githubusercontent.com/111665712/202080231-e85504cf-1e95-4daa-9ac5-f521fc4db521.png)
-
+![image](https://user-images.githubusercontent.com/111665712/202080428-15afb5cd-0d58-4b12-9020-d5a4661171d4.png)
 
 <h3>Live Site</h3>
 
