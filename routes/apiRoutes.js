@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const { notes } = require('../data/db.json');
+const { notes } = require('../db/db.json');
 
 const { createNote , validateNote} = require('../lib/notes');
 
