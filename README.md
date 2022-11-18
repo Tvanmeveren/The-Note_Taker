@@ -14,3 +14,9 @@ At the homepage click the start button.This will bring you to the notes page whe
 http://localhost:3001/
 <h3>Github Site</h3>
 https://github.com/Tvanmeveren/The-Note_Taker
+
+<h2>Contribution</h2>
+N/A
+
+<h2>Questions</h2>
+If you have any questions please get ahold of me at Github.com/Tvanmeveren or tyvan07@yahoo.com
